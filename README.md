@@ -13,6 +13,7 @@ I am currently pursuing my computer science degree. I am looking to absorb as mu
 
 # Education 📚
 Singapore Institute of Management - University of London | BsC (Hons) in Computer Science
+Republic Polytechnic - Diploma in Electrical and Electronic Engineering 
 
 # Connect with me! 💭
 * Linkedin: https://www.linkedin.com/in/kurt-ramos/
