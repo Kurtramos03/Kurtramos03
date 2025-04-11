@@ -12,8 +12,8 @@ I am currently pursuing my computer science degree. I am looking to absorb as mu
 * [Data Analysis using python]
 
 # Education 📚
-Singapore Institute of Management - University of London | BsC (Hons) in Computer Science
-Republic Polytechnic - Diploma in Electrical and Electronic Engineering 
+* Singapore Institute of Management - University of London | BsC (Hons) in Computer Science
+* Republic Polytechnic - Diploma in Electrical and Electronic Engineering | Major in Communications
 
 # Connect with me! 💭
 * Linkedin: https://www.linkedin.com/in/kurt-ramos/
