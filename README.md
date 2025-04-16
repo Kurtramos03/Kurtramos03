@@ -8,7 +8,7 @@ I am currently pursuing my computer science degree. I am looking to absorb as mu
 * [Web Development - Personal Portfolio 🌐 🤓](https://github.com/Kurtramos03/Web-Development---Personal-Portfolio)
 * [Data Visualisation using p5.js]
 * [DJ Application using C++ and Juce]
-* [Image Processing Application]
+* [Image Processing Application using Javascript and ml5.js]
 * [Data Analysis using python]
 
 # Education 📚
