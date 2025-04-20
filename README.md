@@ -6,10 +6,10 @@ I am currently pursuing my computer science degree. I am looking to absorb as mu
 * [Poetry Assistant, Data Structure & Algorithm 🧠](https://github.com/Kurtramos03/Poetry-Assistant-DSA)
 * [Web Development - Themepark website 🌐 🎢](https://github.com/Kurtramos03/Web-Development---ThemePark-Website)
 * [Web Development - Personal Portfolio 🌐 🤓](https://github.com/Kurtramos03/Web-Development---Personal-Portfolio)
-* [Data Visualisation using p5.js] :: pending
-* [DJ Application using C++ and Juce] :: pending
-* [Image Processing Application using Javascript and ml5.js] :: pending
-* [Data Analysis using python] :: pending
+* [Data Visualisation using p5.js] :: pending 💬
+* [DJ Application using C++ and Juce] :: pending 💬
+* [Image Processing Application using Javascript and ml5.js] :: pending 💬
+* [Data Analysis using python] :: pending 💬
 
 # Education 📚
 * Singapore Institute of Management - University of London | BsC (Hons) in Computer Science
